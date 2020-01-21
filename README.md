@@ -1,8 +1,3 @@
-## Recommend-A-Movie Source files
+## Simpsons Quote generator source files
 
-This is project recommends movies to the user based on a previously searched movie. It was built using React, react-scroll and axios.
-It was built to try Hooks as well.
-
-## TODO
-- Find a way to make styled components work
-- Refactor with a better understanding of how Hooks work and when should be used
+This repository contains the source files for the Simpsons quote generator. The app was built using React and also to practice Hooks a bit more. It's using a custom made API of Simpsons Quote, found [here](https://api.myjson.com/bins/qnf8j)
